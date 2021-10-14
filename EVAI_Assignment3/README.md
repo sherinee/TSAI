@@ -33,9 +33,7 @@ ACCURACY ACHIEVED - 97.75%** \
 To our surprise, the network does not take more than a few epochs to achieve an ~ 98% accuracy
 
 Here are the loss and accuracy charts from training the network:
-
-The summary of the network looks like this:
-![Model Params](Model Parameters.jpg)
+\
 
 The Network / Model - Loss Function \
 We went ahead with the Negative Log Likelihood loss as that is known to give good results for comparing outputs for classification problems like this one.
