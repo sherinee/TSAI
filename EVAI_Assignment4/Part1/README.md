@@ -10,7 +10,7 @@ The neural network considered is as shown below,
 ![Model](Model.png)
 
 Let us assume initial values as follows   
-![Initial values](initial_values.png)
+![Initial values](intial_values.png)
   
 List of formulae:  
 ![formula1](formula1.PNG)  
