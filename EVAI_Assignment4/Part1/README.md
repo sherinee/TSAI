@@ -1,7 +1,7 @@
 Part 1: 
 
 Screenshot of Excel 
-[]<image>
+![](Excel_2.png)
   
 For the given Neural network,
 let us assume initial values as follows 
