@@ -3,13 +3,32 @@ Part 1:
 Screenshot of Excel 
 ![Excel](Excel_2.PNG)
   
-For the given Neural network,
+The neural network considered is as shown below,
+![Model](Model.PNG)
+
 let us assume initial values as follows 
-<inital values>
+![Initial values](inital_values.PNG)
   
 List of formulae:
-<images>
+![formula1](formula1.PNG)
+![formula2](formula2.PNG)
+![formula3](formula3.PNG)
+  
   
 Applying formulae on initial values, we fill up the excel sheet. 
+
+By changing the learning rate, the following graphs are obtained. 
+
+Learning rate = 0.2
+![learning_rate_0.2](learning_rate_0.2.PNG)
+Learning rate = 0.5
+![learning_rate_0.5](learning_rate_0.5.PNG)
+Learning rate = 0.8
+![learning_rate_0.8](learning_rate_0.8.PNG)
+Learning rate = 1
+![learning_rate_1](learning_rate_1.PNG)
+Learning rate = 2
+![learning_rate_2](learning_rate_2.PNG)
+
   
   
