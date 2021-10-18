@@ -1,4 +1,4 @@
-Goal is to create a classification model to predict digits with high accuracy and low number of parameters
+**Goal is to create a classification model to predict digits with high accuracy and low number of parameters**
 
 Dataset used: MNIST (handwritten digit dataset)
 
