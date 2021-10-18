@@ -1,7 +1,8 @@
 **Part 1** 
   
 **Rewrite the whole excel sheet showing backpropagation. Explain each major step, and write it on Github.**  
-  
+
+Excel workbook uploaded : EVAI_assignment_4
 
 Screenshot of Excel sheet   
 ![Excel](Excel_2.PNG)  
