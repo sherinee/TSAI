@@ -51,4 +51,7 @@ Results:
     
     
 **Analysis: Model performs well. Test Accuracy remains greater than 99.4 in the last 5 epochs.**  
-
+   
+   
+**Submission: Individual**    
+**Name: Sherine Jeyaraj**   
