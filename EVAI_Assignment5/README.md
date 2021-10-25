@@ -1,4 +1,4 @@
-**Filename: EVAI_S5_Code1.ipynb ** 
+**Filename: EVAI_S5_Code1.ipynb **   
 Target:   
 1) Set up a basic network   
   
@@ -9,7 +9,7 @@ Results:
 
 Analysis: Performs well, need to increase accuracy further
 
-**Filename: EVAI_S5_Code2.ipynb**
+**Filename: EVAI_S5_Code2.ipynb**  
 Target:  
 1) Improve accuracy further  
 2) Added batch normalization
@@ -22,7 +22,7 @@ Results:
 
 Analysis: Accuracy target met, need to reduce number of parameters
 
-**Filename: EVAI_S5_Code3.ipynb**
+**Filename: EVAI_S5_Code3.ipynb**  
 Target:  
 1) Reduce number of params  
 2) Play around with number of neurons in each layer   
@@ -34,7 +34,7 @@ Results:
 
 Analysis: Accuracy and params target met, play around a bit more to stabilize the results and finalize  
 
-**Filename: EVAI_S5_Code4.ipynb**
+**Filename: EVAI_S5_Code4.ipynb**  
 Target:  
 1) Stablize the accuracy  
 
