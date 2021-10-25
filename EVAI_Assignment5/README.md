@@ -4,8 +4,8 @@ Target:
   
 Results:
 1) Parameters: 8.6k  
-2) Best Train Accuracy: 99.9  
-3) Best Test Accuracy: 99.3    
+2) Best Train Accuracy: 98.69  
+3) Best Test Accuracy: 98.83      
 
 Analysis: Performs well, need to increase accuracy further
   
