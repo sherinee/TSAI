@@ -1,4 +1,4 @@
-**Filename: EVAI_S5_Code1.ipynb **   
+**Filename: EVAI_S5_Code1.ipynb**  
 Target:   
 1) Set up a basic network   
   
@@ -22,7 +22,7 @@ Results:
 
 Analysis: Accuracy target met, need to reduce number of parameters
 
-**Filename: EVAI_S5_Code3.ipynb**  
+**Filename: EVAI_S5_Code3.ipynb**    
 Target:  
 1) Reduce number of params  
 2) Play around with number of neurons in each layer   
@@ -43,5 +43,5 @@ Results:
 2) Best Train Accuracy:99.3 (14th epoch)
 3) Best Test Accuracy: 99.64 (14th epoch) 
 
-Analysis: Model performs well. Test Accuracy remains greater than 99.4 in the last 5 epochs.  
+**Analysis: Model performs well. Test Accuracy remains greater than 99.4 in the last 5 epochs.  **
 
